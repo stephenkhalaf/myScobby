@@ -1,0 +1,65 @@
+body{
+	text-align:center;	
+}
+#overall {
+	border:1px solid blue;
+	
+	
+}
+
+table{
+	
+	background-color: #001f3f;
+	color:white;
+}
+
+th{
+	background-color: #001f3f;
+	text-align:center;
+	text-decoration:underline;
+	color:white;
+}
+
+#containp{
+	font-style: italic;
+	font-family:Arial;
+	font-weight:50px;
+	text-decoration:underline;
+	color:blue;
+}
+
+#answer{
+	font-style:italic;
+	padding:10px;
+}
+
+#answer span{
+	color:red;
+}
+
+form span{
+	color:red;
+	padding:5px;
+	font-size:20px;
+}
+
+
+#button {
+	color:white;
+	padding:5px;
+	margin-left:50px;
+	font-size:15px;
+	background-color:red;
+	border:1px solid black;
+	border-radius:10px 10px;
+}
+
+#tex {
+	padding:8px;
+}
+
+#contact p{
+	color: red;
+}
+	
+
